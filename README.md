@@ -1,2 +1,2 @@
 # best-repo-ever
-Git e GitHub em desenvolvimento Salesforce.
+"Foi só você chegar que voltou a funcionar."
